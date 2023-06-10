@@ -1,0 +1,28 @@
+{
+  "name": "paschalis-ep-frontend-essentials",
+  "displayName": "ep-frontend-essentials",
+  "description": "Frontend essential plugins",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "bmewburn.vscode-intelephense-client", 
+    "esbenp.prettier-vscode", 
+    "gencay.vscode-chatgpt", 
+    "ms-azuretools.vscode-docker", 
+    "ms-vscode-remote.remote-containers", 
+    "ms-vscode-remote.remote-ssh", 
+    "ms-vscode-remote.remote-ssh-edit", 
+    "ms-vscode-remote.remote-wsl", 
+    "ms-vscode-remote.vscode-remote-extensionpack", 
+    "ms-vscode.remote-explorer", 
+    "ms-vscode.remote-server", 
+    "ms-vscode.sublime-keybindings", 
+    "svelte.svelte-vscode", 
+    "xdebug.php-debug"
+  ]
+}
